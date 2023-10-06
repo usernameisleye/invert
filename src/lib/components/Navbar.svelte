@@ -23,7 +23,7 @@
 </script>
 
 <div>
-  <nav class="fixed top-0 inset-x-0 z-30 h-fit p-6 backdrop-blur">
+  <nav class="fixed top-0 inset-x-0 z-30 h-fit p-6 backdrop-blur-md">
     <div class="max-w-7xl mx-auto flex justify-between items-center gap-4">
       <a href="/">
         <Logo />
